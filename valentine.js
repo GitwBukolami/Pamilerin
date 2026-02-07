@@ -18,12 +18,11 @@ const ValentineSite = () => {
   return (
     <div className="min-h-screen bg-[#FFF8F0] text-[#5D4037] overflow-x-hidden font-serif">
      {/* Background Music (Hidden) */}
-      <iframe 
-        src="https://www.youtube.com/embed/3AyMjyHu1bA?autoplay=1&loop=1&playlist=3AyMjyHu1bA" 
-        allow="autoplay" 
-        className="hidden"
-      ></iframe>
-
+<iframe 
+  src="https://www.youtube.com/embed/3AyMjyHu1bA?autoplay=1&loop=1&playlist=3AyMjyHu1bA" 
+  allow="autoplay" 
+  className="hidden"
+></iframe>
 
       {/* Floating Hearts Background */}
       <div className="fixed inset-0 pointer-events-none overflow-hidden">
@@ -159,3 +158,4 @@ const ValentineSite = () => {
 
 
 export default ValentineSite;
+
