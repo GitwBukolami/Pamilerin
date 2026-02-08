@@ -155,11 +155,13 @@ const ValentineSite = () => {
       </section>
 
       <footer className="text-center py-10 opacity-50 text-sm">
-        Made with love for you.
+        Made with love for you 
+              Bukolami.
       </footer>
     </div>
   );
 };
 
 export default ValentineSite;
+
 
